@@ -1,0 +1,33 @@
+{
+  "name": "hack.chat",
+  "version": "1.0.0",
+  "description": "A minimal, distraction-free chat application for the web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewBelt/hack.chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": {
+    "name": "Kagan Canak",
+    "email": "kkcanak@gmail.com",
+    "url": "https://github.com/smultronstallet"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/smultronstallet/kchat/issues"
+  },
+  "homepage": "https://github.com/smultronstallet/kchat",
+  "dependencies": {
+    "ws": "^0.7.2"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
