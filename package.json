@@ -1,5 +1,5 @@
 {
-  "name": "hack.chat",
+  "name": "kchat",
   "version": "1.0.0",
   "description": "A minimal, distraction-free chat application for the web",
   "main": "server.js",
